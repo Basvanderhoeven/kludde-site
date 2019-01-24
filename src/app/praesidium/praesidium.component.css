@@ -1,0 +1,30 @@
+.card{
+    min-height: 520px;
+    box-shadow: none;
+}
+.view{
+    overflow: unset;
+}
+.praesidium-img{
+    float: left;
+}
+.praesidium-info{
+    padding-top: 10px;
+    float: left;
+}
+.card-container{
+    width: 100%;
+    margin: 0 auto;
+}
+.content h1{
+    padding: 20px;
+}
+.row{
+    overflow: hidden;
+}
+.slogan{
+    display: none;
+    background: #000;
+    max-width: 415px;
+    padding: 10px;
+}
